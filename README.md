@@ -26,7 +26,7 @@ Basic ideas:
   * move back to active (how?)
   * nothing else
 * keyboardbings. vi. Of course.
-* tech
+*tech
   * scala
   * play
   * scalaz if I feel funky
