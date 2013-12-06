@@ -30,4 +30,9 @@ Basic ideas:
   * scala
   * play
   * scalaz if I feel funky
-
+* db (you are gonna hate this one)
+  * I'll store everything in xml-files
+   * Question: Oh why oh why not a real db?
+   * Answer:   Because it is going to run my server and I am probably going to want to script some stuff
+   * But don't worry. Everything will be abstracted in db services. Future changes made easy.
+ 
